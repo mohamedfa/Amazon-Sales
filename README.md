@@ -73,6 +73,7 @@ This page dives deeper into various metrics and their breakdowns:
 ![image](https://github.com/user-attachments/assets/47b40e4e-9db3-47eb-9b4a-c609eb5fe5b8)
 
 - **Sum of Total Revenue by Sales Channel (Doughnut Chart)**: The "Offline" sales channel accounted for 58% of total revenue.
+
 ![image](https://github.com/user-attachments/assets/ddafce76-a435-415b-9bc8-3249b1b77293)
 
 - **Sum of Total Revenue by Order Priority (Doughnut Chart)**: "High priority" orders generated the highest revenue at $48 Million (35%), followed by "Low priority" at $36 Million (27%).
@@ -92,12 +93,15 @@ This page includes additional measures and further insights into the data:
 ![image](https://github.com/user-attachments/assets/05fb5fde-a9e4-4091-91b0-30be552f1560)
 
 - **Sum of Total Cost, Profit, and Revenue by Region (Line Chart)**: Detailed breakdown of cost, profit, and revenue by region.
+
 ![image](https://github.com/user-attachments/assets/7e463612-e2e0-4cd8-bad1-091f51073f6e)
 
 - **Top 10 Countries by Sum of Units Sold (Bar Chart)**: Sao Tome and Principe had the highest sum of units sold, with more than 24,000 units.
+
 ![image](https://github.com/user-attachments/assets/b9ebb894-e5b1-40f5-8a34-b3fb5300d64c)
 
 - **Top 10 Countries by Sum of Total Revenue (Bar Chart)**: Honduras had the highest revenue, with more than $6 Million.
+
 ![image](https://github.com/user-attachments/assets/2fd00870-a87b-4d57-ab3c-8f394844e40c)
 
 ## Interactive Dashboard
